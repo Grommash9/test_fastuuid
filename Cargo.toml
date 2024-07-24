@@ -1,5 +1,5 @@
 [package]
-name = "fastuuid"
+name = "test_fastuuid"
 version = "0.9.1"
 authors = ["Omer Katz <omer.drow@gmail.com>"]
 license = "BSD3"
