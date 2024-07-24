@@ -10,7 +10,7 @@ profile = "black"
 multi_line_output = 3
 
 [project]
-name = "fastuuid"
+name = "test_fastuuid"
 classifier = [
   "Development Status :: 4 - Beta",
   "License :: OSI Approved :: BSD License",
